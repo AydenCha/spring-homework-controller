@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+out/
+*.iws
+*.ipr
+
+# VS Code / Eclipse
+.vscode/
+bin/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+
+# Node (프론트엔드 저장소)
+node_modules/
+
+# 업로드 실습 파일
+uploads/
